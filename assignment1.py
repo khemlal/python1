@@ -1,5 +1,6 @@
 print("Hello World")
 print("python")
+print("Hello")
 
 def main():
     print("Hello World")
